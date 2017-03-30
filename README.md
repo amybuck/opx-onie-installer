@@ -33,7 +33,7 @@ The root file system mainly incorporates:
 - default user name and password : admin/admin
 - "admin" user added to sudo group
 
-After a successful build, the ONIE installer is generated as `opx-onie-installer`.
-(`opx-onie-installer-x86_64_generic.bin`)
+After a successful build, the ONIE installer is generated as `opx-onie-installer`
+(`opx-onie-installer-x86_64_generic.bin`).
 
 (c) Dell 2017
