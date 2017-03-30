@@ -6,8 +6,8 @@ To create the OpenSwitch ONIE installer, you first need to create the OpenSwitch
 The build process has been automated by the `build.sh` script.
 
 You must have the following repos to build ONIE installer:
-- opx-build
-- opx-onie-installer
+- [opx-build](https://github.com/open-switch/opx-build)
+- [opx-onie-installer](https://github.com/open-switch/opx-onie-installer)
 
 To clone the repos, run the following commands:
 
