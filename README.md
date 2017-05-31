@@ -36,4 +36,4 @@ The root file system mainly incorporates:
 
 After successful build, the ONIE installer will be generated at "opx-onie-installer" (for example, `opx-onie-installer-x86_64_generic.bin`).
 
-(c) 2017 Dell
+(c) 2017 Dell EMC
