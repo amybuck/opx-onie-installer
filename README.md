@@ -17,3 +17,4 @@ opx-onie-installer/
 └── rootconf/             - extra files to be included in the rootfs
 ```
 
+© 2017 Dell EMC
