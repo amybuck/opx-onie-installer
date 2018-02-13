@@ -1,4 +1,4 @@
-# OPX Onie Installer
+# OPX ONIE installer
 
 This repository holds the utilities and data files describing how to build an ONIE installation image for OPX.
 
@@ -17,4 +17,4 @@ opx-onie-installer/
 └── rootconf/             - extra files to be included in the rootfs
 ```
 
-(c) 2017 Dell EMC
+(c) 2018 Dell EMC
